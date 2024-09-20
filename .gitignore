@@ -2,6 +2,7 @@
 dist/
 migration_scripts/
 venv/
+env/
 .idea
 .venv/
 .ipynb_checkpoints
